@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "amirbios"
+AuthUserFile "/home/honargra/.htpasswds/itabs.ir/homafly/landing/data/passwd"
+require valid-user
